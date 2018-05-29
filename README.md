@@ -1,3 +1,3 @@
-# hello-world
-for starters
-Let us see where this ends ....
+holgers repo
+Recherntrainer fuer Grundschule Klasse 1 - 4
+2nd try
